@@ -54,8 +54,8 @@ All notebooks are pre-executed with complete execution outputs, loss logs, pre/p
 | Model Architecture | Parameters | Contributor | Notebook Link | Post-Tuning Accuracy |
 | :--- | :---: | :---: | :--- | :---: |
 | **TinyLlama 1.1B Chat** | 1.1B | Sajid Saleem | [Open Notebook](./LLM%20Finetuning/TinyLlama_1_1B_Banking_Classification%20-%20(Sajid%20Saleem).ipynb) | **90.38%** |
-| **Gemma 2 2B IT** *(Primary)* | 2.6B | Awais M. Lodhi | [Open Notebook](./LLM%20Finetuning/Gemma_2_2B_IT_Banking_Classification%20-%20(Awais%20Lodhi).ipynb) | **93.22%** |
-| **Gemma 2 2B IT** *(Validation)* | 2.6B | Sajid Saleem | [Open Notebook](./LLM%20Finetuning/Gemma_2_2B_IT_Banking_Classification%20-%20(Sajid%20Saleem).ipynb) | **92.60%** |
+| **Gemma 2 2B IT** *(Evaluation)* | 2.6B | Sajid Saleem | [Open Notebook](./LLM%20Finetuning/Gemma_2_2B_IT_Banking_Classification%20-%20(Sajid%20Saleem).ipynb) | **92.60%** |
+| **Gemma 2 2B IT** *(Validation)* | 2.6B | Awais M. Lodhi | [Open Notebook](./LLM%20Finetuning/Gemma_2_2B_IT_Banking_Classification%20-%20(Awais%20Lodhi).ipynb) | **93.22%** |
 | **Llama 3.2 3B Instruct** | 3.2B | Awais M. Lodhi | [Open Notebook](./LLM%20Finetuning/Llama_3_2_3B_Banking_Classification%20-%20(Awais%20Lodhi).ipynb) | **92.88%** |
 | **Qwen2.5-3B-Instruct** | 3.1B | Basit Ali Gillani | [Open Notebook](./LLM%20Finetuning/Qwen2_5_3B_Banking_Classification%20-%20(Basit%20Gillani).ipynb) | **93.27%** |
 | **Phi-3.5-mini-Instruct** | 3.8B | Basit Ali Gillani | [Open Notebook](./LLM%20Finetuning/Phi_3_5_mini_Banking_Classification%20-%20(Basit%20Gillani).ipynb) | **91.83%** |
