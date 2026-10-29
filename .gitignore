@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Environment & Secrets
+.env
+*.token
+*.txt
+*.key
+*.pem
+
+# LaTeX & Build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.pdf
+*.zip
+*.tar.gz
+
+# Reports and documentation (per project instruction)
+Report.*
+report.*
+figures/
+duplicates/
